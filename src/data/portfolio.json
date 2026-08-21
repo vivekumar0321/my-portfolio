@@ -1,0 +1,665 @@
+{
+  "website": {
+    "name": "Vivek Nishad",
+    "first_name": "Vivek",
+    "last_name": "Nishad",
+    "logo": "/images/personal/vivek.jpeg",
+    "favicon": "/images/personal/vivek.jpeg",
+    "title": "Vivek Nishad | Full Stack Developer",
+    "description": "Experienced Full Stack Developer specializing in Laravel, PHP, React.js,  MySQL & REST API development. Passionate about building scalable web applications and modern digital solutions.",
+    "keywords": "Vivek Nishad, Full Stack Developer, Laravel Developer, PHP Developer, React.js, MySQL, REST API, Web Development",
+    "author": "Vivek Nishad",
+    "theme": "light",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "Vivek Nishad | Full Stack Developer Portfolio",
+    "description": "Explore the professional portfolio of Vivek Nishad, a Full Stack Developer with expertise in Laravel, PHP, MySQL, REST APIs & scalable web application development.",
+    "keywords": "Vivek Nishad, Full Stack Developer, Laravel, PHP , Software Developer, REST API, Web Development",
+    "author": "Vivek Nishad",
+    "ogImage": "/images/personal/vivek.jpeg"
+  },
+  "navigation": [
+    {
+      "name": "Home",
+      "hash": "#home"
+    },
+    {
+      "name": "About",
+      "hash": "#about"
+    },
+    {
+      "name": "Skills",
+      "hash": "#skills"
+    },
+    {
+      "name": "Experience",
+      "hash": "#experience"
+    },
+    {
+      "name": "Projects",
+      "hash": "#projects"
+    },
+    {
+      "name": "Contact",
+      "hash": "#contact"
+    }
+  ],
+  "hero": {
+    "name": "Vivek Nishad",
+    "designation": "Full Stack Developer",
+    "subtitle": "Building scalable, high-performance web applications with Laravel & modern web technologies.",
+    "description": "Experienced Full Stack Developer with 2.5+ years of expertise in designing and developing secure, scalable, and user-centric web applications. Skilled in PHP, Laravel, MySQL, REST APIs. Passionate about solving complex problems and delivering high-quality digital solutions.",
+    "image": "/images/personal/vivek.jpeg",
+    "buttons": {
+      "hire": "#contact",
+      "resume": "/uploads/resume.pdf",
+      "projects": "#projects"
+    },
+    "social": {
+      "github": "https://github.com/vivekumar0321",
+      "linkedin": "https://www.linkedin.com/in/vivek-nishad-b124b6255/",
+      "instagram": "https://www.instagram.com/v.v.e.k.08",
+      "facebook": "https://www.facebook.com/vivek.nishad.37853"
+    }
+  },
+  "about": {
+    "image": "/images/personal/vivek.jpeg",
+    "title": "About Me",
+    "description": "I'm a passionate Full Stack Developer with over 5 years of professional experience in designing, developing, and deploying scalable web applications. My expertise spans Laravel, PHP, React.js, Node.js, MySQL, PostgreSQL, RESTful APIs, and modern JavaScript technologies. I enjoy solving complex business challenges by building secure, efficient, and user-focused digital solutions.",
+    "objective": "To contribute to innovative organizations by developing high-quality, scalable, and performance-driven web applications while continuously learning emerging technologies and delivering exceptional user experiences.",
+    "personal": {
+      "name": "Vivek Nishad",
+      "email": "vivekumar0321@gmail.com",
+      "phone": "+91 7233847321",
+      "address": "Lucknow, Uttar Pradesh, India",
+      "experience": "2.5+ Years",
+      "projects": "10+",
+      "clients": "10+",
+      "location": "Lucknow, India"
+    },
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "resume": "/uploads/resume.pdf"
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Frontend",
+        "skills": [
+          {
+            "name": "React.js",
+            "percentage": 95,
+            "icon": "FaReact"
+          },
+          {
+            "name": "JavaScript",
+            "percentage": 95,
+            "icon": "FaJs"
+          },
+          {
+            "name": "HTML5",
+            "percentage": 98,
+            "icon": "SiHtml5"
+          },
+          {
+            "name": "CSS3",
+            "percentage": 95,
+            "icon": "SiCss3"
+          },
+          {
+            "name": "Bootstrap",
+            "percentage": 95,
+            "icon": "FaBootstrap"
+          },
+          {
+            "name": "jQuery",
+            "percentage": 90,
+            "icon": "SiJquery"
+          }
+        ]
+      },
+      {
+        "name": "Backend",
+        "skills": [
+          {
+            "name": "Laravel",
+            "percentage": 98,
+            "icon": "SiLaravel"
+          },
+          {
+            "name": "PHP",
+            "percentage": 98,
+            "icon": "FaPhp"
+          },
+          {
+            "name": "REST API",
+            "percentage": 95,
+            "icon": "FaServer"
+          },
+          {
+            "name": "JWT Authentication",
+            "percentage": 90,
+            "icon": "FaKey"
+          }
+        ]
+      },
+      {
+        "name": "Database",
+        "skills": [
+          {
+            "name": "MySQL",
+            "percentage": 95,
+            "icon": "SiMysql"
+          },
+          {
+            "name": "phpMyAdmin",
+            "percentage": 95,
+            "icon": "SiPhpmyadmin"
+          }
+        ]
+      },
+      {
+        "name": "Hosting & DevOps",
+        "skills": [
+          {
+            "name": "GitHub",
+            "percentage": 95,
+            "icon": "FaGithub"
+          },
+          {
+            "name": "cPanel",
+            "percentage": 95,
+            "icon": "FaServer"
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "skills": [
+          {
+            "name": "VS Code",
+            "percentage": 100,
+            "icon": "SiVisualstudiocode"
+          },
+          {
+            "name": "Postman",
+            "percentage": 95,
+            "icon": "SiPostman"
+          },
+          {
+            "name": "Composer",
+            "percentage": 95,
+            "icon": "SiComposer"
+          }
+        ]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "CMP Techsseract LLP",
+      "position": "Laravel Developer",
+      "duration": "Oct 2024 – Present",
+      "location": "Lucknow, Uttar Pradesh, India",
+      "description": "Working as a Full Stack Developer, delivering enterprise-grade web applications, RESTful APIs, AI-powered solutions, and scalable software systems. Responsible for the complete software development lifecycle, from requirement analysis and architecture design to deployment and production support.",
+      "responsibilities": [
+        "Developed enterprise web applications using PHP & Laravel.",
+        "Designed and implemented scalable REST APIs and third-party integrations.",
+        "Optimized MySQL databases for high performance.",
+        "Collaborated with cross-functional teams to deliver scalable software solutions.",
+        "Maintained production applications and resolved critical issues with minimal downtime."
+      ],
+      "technologies": [
+        "Laravel",
+        "PHP",
+        "React.js",
+        "JavaScript",
+        "MySQL",
+        "REST API",
+        "Git",
+        "GitHub",
+        "cPanel",
+        "Postman"
+      ],
+      "logo": "/images/experience/cmp.png"
+    },
+    {
+      "company": "Index Global Technology Pvt Ltd.",
+      "position": "Laravel Developer",
+      "duration": "Mar 2023 – Sept 2024",
+      "location": "Lucknow, Uttar Pradesh, India",
+      "description": "Started my professional software development career by building business websites, web applications, and backend systems for clients. Worked closely with senior developers while gaining hands-on experience in full-stack web development, database design & deployment.",
+      "responsibilities": [
+        "Developed responsive websites and business applications using PHP & Laravel.",
+        "Created frontend interfaces using HTML5, CSS3, Bootstrap, JavaScript, and jQuery.",
+        "Designed and integrated RESTful APIs.",
+        "Worked with MySQL database design and optimization.",
+        "Maintained existing applications and fixed production issues.",
+        "Participated in application deployment and hosting management.",
+        "Used Git for version control and team collaboration.",
+        "Worked directly with clients to understand project requirements."
+      ],
+      "technologies": [
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "jQuery",
+        "MySQL",
+        "REST API",
+        "Git",
+        "cPanel"
+      ],
+      "logo": "/images/experience/igt.png"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology (B.Tech) in Computer Science & Engineering",
+      "college": "Gokaran Narvadeshwar Institute  Of Technology & Management",
+      "university": "Dr. A.P.J. Abdul Kalam Technical University (AKTU), Uttar Pradesh",
+      "year": "2022 - 2024",
+      "description": "Completed a Bachelor's degree in Computer Science & Engineering with a focus on Software Development, Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Cloud Computing, and Full-Stack Web Development. Worked on industry-oriented projects using modern technologies.",
+      "logo": "/images/education/btech.png"
+    },
+    {
+      "degree": "Diploma in Computer Science & Engineering",
+      "college": "Government Polytechnic Dahi Chowki Unnao",
+      "university": "Board of Technical Education, Uttar Pradesh",
+      "year": "2017 - 2020",
+      "description": "Built a strong foundation in Computer Science, Software Engineering, Database Management Systems, Data Structures, Operating Systems, Computer Networks, and Web Development. Completed multiple academic and practical projects focused on modern software development.",
+      "logo": "/images/education/diploma.png"
+    },
+    {
+      "degree": "Higher Secondary (12th)",
+      "college": "Your School Name",
+      "university": "Uttar Pradesh Board",
+      "year": "2016 - 2017",
+      "description": "Completed Higher Secondary education with a focus on Science and Mathematics, building a strong analytical and technical foundation.",
+      "logo": "/images/education/12th.png"
+    },
+    {
+      "degree": "Secondary School (10th)",
+      "college": "Your School Name",
+      "university": "Uttar Pradesh Board",
+      "year": "2014 - 2015",
+      "description": "Completed secondary education with excellent academic performance and developed a strong interest in technology and programming.",
+      "logo": "/images/education/10th.png"
+    }
+  ],
+  "projectss": [
+    {
+      "id": 1,
+      "title": "E-Commerce Marketplace",
+      "slug": "ecommerce-marketplace",
+      "category": "Full Stack",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
+      "technologies": [
+        "Laravel",
+        "React.js",
+        "Stripe",
+        "MySQL"
+      ],
+      "description": "Modern multi-vendor eCommerce platform with secure payments, inventory management, order tracking, and admin dashboard.",
+      "github": "#",
+      "demo": "#"
+    },
+    {
+      "id": 4,
+      "title": "AI Chat & Automation Platform",
+      "slug": "ai-chat-automation",
+      "category": "AI",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+      "technologies": [
+        "OpenAI",
+        "Laravel",
+        "React.js",
+        "Node.js"
+      ],
+      "description": "AI-powered chatbot and workflow automation platform with OpenAI integration, document processing, and intelligent customer support.",
+      "github": "#",
+      "demo": "#"
+    },
+    {
+      "id": 5,
+      "title": "Social Media Platform",
+      "slug": "social-media-platform",
+      "category": "React",
+      "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=400&h=300&fit=crop",
+      "technologies": [
+        "React.js",
+        "Laravel",
+        "MySQL",
+        "Socket.io"
+      ],
+      "description": "Feature-rich social networking platform with posts, messaging, notifications, company pages, and real-time communication.",
+      "github": "#",
+      "demo": "#"
+    },
+    {
+      "id": 6,
+      "title": "React Native Delivery App",
+      "slug": "react-native-delivery-app",
+      "category": "Mobile",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=300&fit=crop",
+      "technologies": [
+        "React Native",
+        "Firebase",
+        "REST API"
+      ],
+      "description": "Cross-platform delivery application with authentication, live order tracking, push notifications, and payment integration.",
+      "github": "#",
+      "demo": "#"
+    },
+    {
+      "id": 7,
+      "title": "Portfolio CMS",
+      "slug": "portfolio-cms",
+      "category": "Next.js",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Bootstrap",
+        "JSON"
+      ],
+      "description": "Modern portfolio management system with dynamic JSON configuration, SEO optimization, dark mode, and responsive design.",
+      "github": "https://github.com/skgautam7889",
+      "demo": "#"
+    },
+    {
+      "id": 8,
+      "title": "Cloud Server & DevOps Automation",
+      "slug": "cloud-devops-automation",
+      "category": "DevOps",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=300&fit=crop",
+      "technologies": [
+        "Docker",
+        "Linux",
+        "Nginx",
+        "GitHub Actions",
+        "VPS"
+      ],
+      "description": "Automated deployment pipeline with Docker, CI/CD, SSL configuration, VPS management, server monitoring, and production optimization.",
+      "github": "#",
+      "demo": "#"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Marketplace & eCommerce Solutions",
+      "slug": "marketplace-ecommerce",
+      "category": "E-Commerce",
+      "image": "/images/project/marketplace-ecommerce.png",
+      "thumbnail": "/images/project/marketplace-ecommerce.png",
+      "technologies": [
+        "Laravel",
+        "React.js",
+        "MySQL",
+        "Stripe"
+      ],
+      "description": "Developed multiple eCommerce and marketplace solutions including online stores, inventory management, order processing, vendor management, and payment integration.",
+      "github": "",
+      "demo": "https://marketplace.tylatwist.com"
+    },
+    {
+      "id": 1,
+      "title": "Marketplace & eCommerce Solutions",
+      "slug": "marketplace-ecommerce",
+      "category": "E-Commerce",
+      "image": "/images/project/marketplace-ecommerce.png",
+      "thumbnail": "/images/project/marketplace-ecommerce.png",
+      "technologies": [
+        "Laravel",
+        "React.js",
+        "MySQL",
+        "Stripe"
+      ],
+      "description": "Developed multiple eCommerce and marketplace solutions including online stores, inventory management, order processing, vendor management, and payment integration.",
+      "github": "",
+      "demo": "https://marketplace.tylatwist.com"
+    },
+    {
+      "id": 1,
+      "title": "Marketplace & eCommerce Solutions",
+      "slug": "marketplace-ecommerce",
+      "category": "E-Commerce",
+      "image": "/images/project/marketplace-ecommerce.png",
+      "thumbnail": "/images/project/marketplace-ecommerce.png",
+      "technologies": [
+        "Laravel",
+        "React.js",
+        "MySQL",
+        "Stripe"
+      ],
+      "description": "Developed multiple eCommerce and marketplace solutions including online stores, inventory management, order processing, vendor management, and payment integration.",
+      "github": "",
+      "demo": "https://marketplace.tylatwist.com"
+    },
+    {
+      "id": 17,
+      "title": "Multi-Platform REST API Development",
+      "slug": "rest-api-development",
+      "category": "Laravel",
+      "image": "/images/project/rest-api.png",
+      "thumbnail": "/images/project/rest-api.png",
+      "technologies": [
+        "Laravel",
+        "REST API",
+        "JWT",
+        "MySQL",
+        "OAuth"
+      ],
+      "description": "Designed and developed secure RESTful APIs powering hotel booking systems, HR platforms, AI applications, job portals, eCommerce platforms, and mobile applications with authentication and third-party integrations.",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "id": 18,
+      "title": "Payment Gateway & Third-Party Integrations",
+      "slug": "payment-integrations",
+      "category": "Integration",
+      "image": "/images/project/payment-integrations.png",
+      "thumbnail": "/images/project/payment-integrations.png",
+      "technologies": [
+        "Laravel",
+        "Stripe",
+        "Razorpay",
+        "REST API"
+      ],
+      "description": "Integrated multiple third-party services including payment gateways, Google Hotel Center, AI APIs, SMS services, email services, authentication systems, and external business APIs across enterprise applications.",
+      "github": "",
+      "demo": ""
+    }
+  ],
+  "pricing": [
+    {
+      "title": "Landing Page / Portfolio",
+      "subtitle": "Perfect for freelancers, personal brands & startups",
+      "price": "$149",
+      "period": "One-Time",
+      "description": "Modern, responsive, and SEO-friendly landing page or portfolio website.",
+      "features": [
+        "1-5 Responsive Pages",
+        "Modern UI/UX Design",
+        "Mobile Friendly",
+        "SEO Optimization",
+        "Contact Form",
+        "Google Maps Integration",
+        "Social Media Integration",
+        "Performance Optimization",
+        "Free Deployment",
+        "1 Month Support"
+      ],
+      "delivery": "3-5 Business Days",
+      "featured": false,
+      "buttonText": "Get Started"
+    },
+    {
+      "title": "Custom Web Application",
+      "subtitle": "CRM, ERP, SaaS, Marketplace & Enterprise Solutions",
+      "price": "Custom Quote",
+      "period": "Project Based",
+      "description": "Enterprise-grade web applications built using Laravel, React.js, Next.js, and Node.js.",
+      "features": [
+        "Unlimited Modules",
+        "REST API Development",
+        "Authentication & Authorization",
+        "Role & Permission Management",
+        "Payment Gateway",
+        "Admin Panel",
+        "Dashboard & Reports",
+        "Source Code Included",
+        "6 Months Support"
+      ],
+      "delivery": "Depends on Scope",
+      "featured": false,
+      "buttonText": "Request Quote"
+    },
+    {
+      "title": "Mobile App Development",
+      "subtitle": "Android & iOS Applications",
+      "price": "From $699",
+      "period": "Project Based",
+      "description": "Cross-platform mobile applications using React Native with secure backend integration.",
+      "features": [
+        "Android & iOS",
+        "React Native",
+        "REST API Integration",
+        "Push Notifications",
+        "Firebase Integration",
+        "Authentication",
+        "Play Store Ready",
+        "App Store Ready",
+        "Source Code Included",
+        "3 Months Support"
+      ],
+      "delivery": "2-5 Weeks",
+      "featured": false,
+      "buttonText": "Build My App"
+    },
+    {
+      "title": "AI Integration & Automation",
+      "subtitle": "ChatGPT, OpenAI, Gemini & AI Workflows",
+      "price": "From $399",
+      "period": "Project Based",
+      "description": "Integrate AI into your website or application for automation, chatbots, content generation, and business intelligence.",
+      "features": [
+        "OpenAI Integration",
+        "ChatGPT Chatbot",
+        "Gemini API",
+        "AI Automation",
+        "Custom AI Assistant",
+        "Workflow Automation",
+        "Prompt Engineering",
+        "API Integration",
+        "Documentation",
+        "1 Month Support"
+      ],
+      "delivery": "5-10 Business Days",
+      "featured": false,
+      "buttonText": "Integrate AI"
+    },
+    {
+      "title": "DevOps & VPS Management",
+      "subtitle": "Deployment, Hosting & Server Optimization",
+      "price": "From $99",
+      "period": "Monthly / One-Time",
+      "description": "Professional server setup, deployment, security, monitoring, and maintenance services.",
+      "features": [
+        "Linux VPS Setup",
+        "SSL Installation",
+        "Cloudflare Setup",
+        "Docker Deployment",
+        "CI/CD Pipeline",
+        "GitHub Actions",
+        "Server Security",
+        "Monthly Maintenance"
+      ],
+      "delivery": "1-3 Business Days",
+      "featured": false,
+      "buttonText": "Deploy Now"
+    }
+  ],
+  "resume": {
+    "file": "/uploads/resume.pdf",
+    "summary": "Experienced Full Stack Developer with 5+ years of expertise in designing, developing, and deploying scalable web and mobile applications. Specialized in Laravel, React.js, REST APIs, AI integration, DevOps, VPS management, and cloud deployment. Passionate about building secure, high-performance, and user-centric digital solutions."
+  },
+  "contact": {
+    "email": "vivekumar0321@gmail.com",
+    "phone": "+91 7233847321",
+    "whatsapp": "+91 7233847321",
+    "address": "Lucknow, Uttar Pradesh, India",
+    "map": "https://maps.google.com/?q=Lucknow,Uttar+Pradesh,India"
+  },
+  "socialLinks": {
+    "github": "https://github.com/vivekumar0321",
+    "linkedin": "https://www.linkedin.com/in/vivek-nishad-b124b6255/",
+    "instagram": "https://www.instagram.com/v.v.e.k.08",
+    "facebook": "https://www.facebook.com/vivek.nishad.37853",
+    "portfolio": "https://yourdomain.com"
+  },
+  "footer": {
+    "description": "Experienced Full Stack Developer in Laravel, React.js, AI Integration & scalable web applications. Passionate about building secure, high-performance digital solutions that drive business growth.",
+    "quickLinks": [
+      {
+        "name": "Home",
+        "hash": "#home"
+      },
+      {
+        "name": "About",
+        "hash": "#about"
+      },
+      {
+        "name": "Skills",
+        "hash": "#skills"
+      },
+      {
+        "name": "Experience",
+        "hash": "#experience"
+      },
+      {
+        "name": "Projects",
+        "hash": "#projects"
+      },
+      {
+        "name": "Contact",
+        "hash": "#contact"
+      }
+    ],
+    "services": [
+      {
+        "name": "Web Development",
+        "hash": "#services"
+      },
+      {
+        "name": "AI Integration",
+        "hash": "#services"
+      },
+      {
+        "name": "API Development",
+        "hash": "#services"
+      }
+    ],
+    "copyright": "© 2026 Vivek Nishad. Designed & Developed by Vivek Nishad. All Rights Reserved."
+  },
+  "settings": {
+    "theme": "light",
+    "animation": true,
+    "loader": true,
+    "darkMode": true,
+    "version": "1.0.0"
+  }
+}

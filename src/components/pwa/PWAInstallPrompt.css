@@ -1,0 +1,148 @@
+.pwa-install-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 1055;
+    background: rgba(0, 0, 0, 0.62);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+}
+
+.pwa-install-modal {
+    z-index: 1060;
+    padding: 1rem;
+}
+
+.pwa-install-modal .modal-dialog {
+    max-width: 440px;
+}
+
+.pwa-install-modal .modal-content {
+    overflow: hidden;
+    border-radius: 1.25rem;
+}
+
+.pwa-install-modal .modal-header {
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1.5rem 1.5rem 0;
+}
+
+.pwa-install-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 58px;
+    height: 58px;
+    border-radius: 18px;
+    color: var(--bs-primary);
+    background: rgba(var(--bs-primary-rgb), 0.12);
+    font-size: 1.75rem;
+}
+
+.pwa-close-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    padding: 0;
+    border-radius: 50%;
+    color: var(--bs-secondary-color);
+    background: var(--bs-tertiary-bg);
+    font-size: 1.25rem;
+}
+
+.pwa-close-button:hover {
+    color: var(--bs-body-color);
+    background: var(--bs-secondary-bg);
+}
+
+.pwa-benefits {
+    display: grid;
+    gap: 0.75rem;
+}
+
+.pwa-benefit-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.8rem 0.9rem;
+    border: 1px solid var(--bs-border-color);
+    border-radius: 0.85rem;
+    background: var(--bs-tertiary-bg);
+}
+
+.pwa-benefit-item span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 24px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    color: var(--bs-success);
+    background: rgba(var(--bs-success-rgb), 0.12);
+    font-weight: 700;
+}
+
+.pwa-ios-instructions {
+    display: grid;
+    gap: 0.8rem;
+    margin-bottom: 1.5rem;
+}
+
+.pwa-instruction-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.85rem;
+    padding: 0.9rem;
+    border: 1px solid var(--bs-border-color);
+    border-radius: 0.85rem;
+    background: var(--bs-tertiary-bg);
+}
+
+.pwa-instruction-number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 30px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: var(--bs-white);
+    background: var(--bs-primary);
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+@media (max-width: 575.98px) {
+    .pwa-install-modal {
+        padding: 0.75rem;
+    }
+
+    .pwa-install-modal .modal-dialog {
+        margin: 0;
+    }
+
+    .pwa-install-modal .modal-content {
+        border-radius: 1rem;
+    }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .pwa-install-modal .modal-content {
+        animation: pwa-modal-enter 180ms ease-out;
+    }
+
+    @keyframes pwa-modal-enter {
+        from {
+            opacity: 0;
+            transform: translateY(16px) scale(0.98);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+        }
+    }
+}
