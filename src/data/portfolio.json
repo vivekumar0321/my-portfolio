@@ -221,7 +221,6 @@
         "REST API",
         "Git",
         "GitHub",
-        "cPanel",
         "Postman"
       ],
       "logo": "/images/experience/cmp.png"
@@ -246,14 +245,13 @@
         "PHP",
         "Laravel",
         "JavaScript",
-        "HTML5",
-        "CSS3",
-        "Bootstrap",
         "jQuery",
         "MySQL",
         "REST API",
         "Git",
-        "cPanel"
+        "GitHub",
+        "cPanel",
+        "Postman"
       ],
       "logo": "/images/experience/igt.png"
     }
@@ -277,7 +275,7 @@
     },
     {
       "degree": "Higher Secondary (12th)",
-      "college": "Your School Name",
+      "college": "B.N.S.D Inter College",
       "university": "Uttar Pradesh Board",
       "year": "2016 - 2017",
       "description": "Completed Higher Secondary education with a focus on Science and Mathematics, building a strong analytical and technical foundation.",
@@ -285,115 +283,11 @@
     },
     {
       "degree": "Secondary School (10th)",
-      "college": "Your School Name",
+      "college": "O.V.M Inter College",
       "university": "Uttar Pradesh Board",
       "year": "2014 - 2015",
       "description": "Completed secondary education with excellent academic performance and developed a strong interest in technology and programming.",
       "logo": "/images/education/10th.png"
-    }
-  ],
-  "projectss": [
-    {
-      "id": 1,
-      "title": "E-Commerce Marketplace",
-      "slug": "ecommerce-marketplace",
-      "category": "Full Stack",
-      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
-      "thumbnail": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
-      "technologies": [
-        "Laravel",
-        "React.js",
-        "Stripe",
-        "MySQL"
-      ],
-      "description": "Modern multi-vendor eCommerce platform with secure payments, inventory management, order tracking, and admin dashboard.",
-      "github": "#",
-      "demo": "#"
-    },
-    {
-      "id": 4,
-      "title": "AI Chat & Automation Platform",
-      "slug": "ai-chat-automation",
-      "category": "AI",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
-      "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
-      "technologies": [
-        "OpenAI",
-        "Laravel",
-        "React.js",
-        "Node.js"
-      ],
-      "description": "AI-powered chatbot and workflow automation platform with OpenAI integration, document processing, and intelligent customer support.",
-      "github": "#",
-      "demo": "#"
-    },
-    {
-      "id": 5,
-      "title": "Social Media Platform",
-      "slug": "social-media-platform",
-      "category": "React",
-      "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=800&h=600&fit=crop",
-      "thumbnail": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=400&h=300&fit=crop",
-      "technologies": [
-        "React.js",
-        "Laravel",
-        "MySQL",
-        "Socket.io"
-      ],
-      "description": "Feature-rich social networking platform with posts, messaging, notifications, company pages, and real-time communication.",
-      "github": "#",
-      "demo": "#"
-    },
-    {
-      "id": 6,
-      "title": "React Native Delivery App",
-      "slug": "react-native-delivery-app",
-      "category": "Mobile",
-      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=600&fit=crop",
-      "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=300&fit=crop",
-      "technologies": [
-        "React Native",
-        "Firebase",
-        "REST API"
-      ],
-      "description": "Cross-platform delivery application with authentication, live order tracking, push notifications, and payment integration.",
-      "github": "#",
-      "demo": "#"
-    },
-    {
-      "id": 7,
-      "title": "Portfolio CMS",
-      "slug": "portfolio-cms",
-      "category": "Next.js",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
-      "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop",
-      "technologies": [
-        "Next.js",
-        "TypeScript",
-        "Bootstrap",
-        "JSON"
-      ],
-      "description": "Modern portfolio management system with dynamic JSON configuration, SEO optimization, dark mode, and responsive design.",
-      "github": "https://github.com/skgautam7889",
-      "demo": "#"
-    },
-    {
-      "id": 8,
-      "title": "Cloud Server & DevOps Automation",
-      "slug": "cloud-devops-automation",
-      "category": "DevOps",
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
-      "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=300&fit=crop",
-      "technologies": [
-        "Docker",
-        "Linux",
-        "Nginx",
-        "GitHub Actions",
-        "VPS"
-      ],
-      "description": "Automated deployment pipeline with Docker, CI/CD, SSL configuration, VPS management, server monitoring, and production optimization.",
-      "github": "#",
-      "demo": "#"
     }
   ],
   "projects": [
@@ -406,8 +300,9 @@
       "thumbnail": "/images/project/marketplace-ecommerce.png",
       "technologies": [
         "Laravel",
-        "React.js",
         "MySQL",
+        "Bootstrap",
+        "JavaScript",
         "Stripe"
       ],
       "description": "Developed multiple eCommerce and marketplace solutions including online stores, inventory management, order processing, vendor management, and payment integration.",
@@ -415,41 +310,92 @@
       "demo": "https://marketplace.tylatwist.com"
     },
     {
-      "id": 1,
-      "title": "Marketplace & eCommerce Solutions",
-      "slug": "marketplace-ecommerce",
-      "category": "E-Commerce",
-      "image": "/images/project/marketplace-ecommerce.png",
-      "thumbnail": "/images/project/marketplace-ecommerce.png",
+      "id": 2,
+      "title": "Document Management System",
+      "slug": "document-management-system",
+      "category": "Web Application",
+      "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=400&h=300&fit=crop",
       "technologies": [
         "Laravel",
-        "React.js",
         "MySQL",
-        "Stripe"
+        "Bootstrap",
+        "JavaScript"
       ],
-      "description": "Developed multiple eCommerce and marketplace solutions including online stores, inventory management, order processing, vendor management, and payment integration.",
+      "description": "Document management system with bulk CSV upload functionality supporting 500+ documents at a time. Implemented secure document storage, search, filtering, and download features.",
       "github": "",
-      "demo": "https://marketplace.tylatwist.com"
+      "demo": "https://upplanningdms.org/auth/login"
     },
     {
-      "id": 1,
-      "title": "Marketplace & eCommerce Solutions",
-      "slug": "marketplace-ecommerce",
-      "category": "E-Commerce",
-      "image": "/images/project/marketplace-ecommerce.png",
-      "thumbnail": "/images/project/marketplace-ecommerce.png",
+      "id": 3,
+      "title": "Wealthmark Cryptocurrency Platform",
+      "slug": "wealthmark-cryptocurrency-platform",
+      "category": "Web Application",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=400&h=300&fit=crop",
       "technologies": [
         "Laravel",
-        "React.js",
         "MySQL",
-        "Stripe"
+        "Bootstrap",
+        "JavaScript"
       ],
-      "description": "Developed multiple eCommerce and marketplace solutions including online stores, inventory management, order processing, vendor management, and payment integration.",
+      "description": "Cryptocurrency trading and portfolio management platform enabling users to buy, trade, and securely manage digital assets with compliance-focused security and transaction management.",
       "github": "",
-      "demo": "https://marketplace.tylatwist.com"
+      "demo": ""
     },
     {
-      "id": 17,
+      "id": 4,
+      "title": "E-Commerce Platform",
+      "slug": "ecommerce-platform",
+      "category": "E-Commerce",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
+      "technologies": [
+        "CodeIgniter",
+        "MySQL",
+        "jQuery",
+        "Bootstrap"
+      ],
+      "description": "Online e-commerce platform offering mobiles, electronics, furniture, fashion, and grocery products. Integrated secure payment gateways, order management, advanced search, and promotional offers.",
+      "github": "",
+      "demo": "https://www.chaturbuy.com/"
+    },
+    {
+      "id": 5,
+      "title": "Hot Cooked Meal (ICDS)",
+      "slug": "hot-cooked-meal-icds",
+      "category": "Web Application",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&h=300&fit=crop",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "Bootstrap",
+        "JavaScript"
+      ],
+      "description": "Government platform to monitor the Hot Cooked Meal Scheme, enabling beneficiary management, meal distribution tracking, real-time reporting, dashboards, and analytics for government officials.",
+      "github": "",
+      "demo": "https://uphcm.com/"
+    },
+    {
+      "id": 6,
+      "title": "Department of Information & Public Relations",
+      "slug": "department-information-public-relations",
+      "category": "Web Application",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&h=300&fit=crop",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "description": "Government portal for managing departmental information, digital content, reports, and public communication. Built secure role-based modules with efficient content management and reporting.",
+      "github": "",
+      "demo": "https://upatrms.org/"
+    },
+    {
+      "id": 7,
       "title": "Multi-Platform REST API Development",
       "slug": "rest-api-development",
       "category": "Laravel",
@@ -467,7 +413,7 @@
       "demo": ""
     },
     {
-      "id": 18,
+      "id": 8,
       "title": "Payment Gateway & Third-Party Integrations",
       "slug": "payment-integrations",
       "category": "Integration",
